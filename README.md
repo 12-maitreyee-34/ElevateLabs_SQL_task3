@@ -1,1 +1,2 @@
-# ElevateLabs_SQL_task3
+This repository illustrates different SQL operations that are focused on extracting and filtering relational table data based on a Hospital Management System schema, which was applied consistently throughout Task 1 and Task 2. The queries were all run using SQL Workbench. The operations involve common SELECT * queries, along with the selection of particular columns. Conditional filtering was carried out by applying WHERE clauses with the use of operators such as >, =, and logical keywords such as AND, OR, and NOT. Further filtering methods employing LIKE, BETWEEN, LIMIT, and LIMIT with OFFSET were also utilized. For meaningful sorting of the data, the ORDER BY clause was used.
+
